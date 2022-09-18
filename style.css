@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: medium;
+    background: rgb(0, 0, 0);
+}
+
+.header {
+        display: table;
+        margin: 0 auto;
+        margin-bottom: 20px;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: inline-block;     
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+}
+
+img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Titreprésentation {
+        color: white;
+        background-color: black;
+        text-align: center;
+        width: 100%;
+        height: 100px;
+        margin-top: 50px;
+        margin-bottom: 0px; 
+        padding-top: 30px;
+        font-size: 50px;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+}
+
+.Présentation {
+        color: white;
+        background-color: black;
+        text-align: center;
+        width: 100%;
+        height: 100px;
+        padding-top: 20px;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 50px;
+}
+
+.container {
+        display: flex;
+        margin: 20px;
+        padding: 30px;
+
+}
+
+
+.item2 {
+        color: white;
+        font-size: large;
+        line-height: 40px;
+        padding-top: 60px;
+        padding-left: 50px;
+}
+
+.container2 {
+        align-items: center;
+        display: flex;
+        margin: 20px;
+        padding: 30px;
+}
+
+.item12 {
+       width: 50%;
+}
+
+
+.item22 {
+        padding-left: 200px;
+        font-size: 35px;
+        color: white;
+        font-family: 'Parisienne', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

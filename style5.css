@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: medium;
+    background: rgb(0, 0, 0);
+}
+
+.header {
+        display: table;
+        margin: 0 auto;
+        margin-bottom: 20px;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: inline-block;     
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+}
+
+.Titreprésentation {
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 0px; 
+    padding-top: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Présentation {
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 50px;
+}

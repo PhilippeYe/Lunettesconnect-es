@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.A {
+    font-size: medium;
+    background: rgb(0, 0, 0);
+}
+
+.header {
+        display: table;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        text-decoration: none;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: inline-block;     
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    line-height: 100px;
+    font-family:'Times New Roman', Times, serif;
+}

@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: medium;
+    background: rgb(0, 0, 0);
+}
+
+.header {
+        display: table;
+        margin: 0 auto;
+        margin-bottom: 20px;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: inline-block;     
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+}
+
+.container {
+    display: flex;
+    margin: 20px;
+    padding: 30px;
+
+}
+
+.item2 {
+    color: white;
+    font-size: large;
+    line-height: 40px;
+    padding-top: 60px;
+}
